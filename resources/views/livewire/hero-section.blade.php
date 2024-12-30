@@ -2,12 +2,12 @@
   <div class="mx-auto max-w-screen-xl px-4 py-10 lg:flex lg:items-center">
     <div class="mx-auto max-w-xl text-center">
       <h1 class="text-3xl font-extrabold sm:text-5xl">
-        Online Marketplace
-        <strong class="font-extrabold text-blue-700 sm:block text-3xl"> Discover Quality Products Online Now. </strong>
+      WellnessWave
+        <strong class="font-extrabold text-blue-700 sm:block text-3xl"> Modern  Approach to Health </strong>
       </h1>
 
       <p class="mt-4 sm:text-xl/relaxed">
-      Browse our collection of high-quality products and enjoy seamless online shopping.
+      "Discover our premium range of health and wellness products and enjoy a shopping experience tailored to your well-being."
       </p>
 
       <div class="mt-8 flex flex-wrap justify-center gap-4">
